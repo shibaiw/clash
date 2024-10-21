@@ -1,2 +1,2 @@
 #局域网ip直连设置
-SRC-IP-CIDR,10.10.10.18/32,no-resolve
+SRC-IP-CIDR,10.10.10.16/32,no-resolve
