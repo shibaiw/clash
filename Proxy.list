@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,superchatlive.com
 DOMAIN-SUFFIX,nlive.cb-wl.com
 DOMAIN-SUFFIX,superchat.live
 DOMAIN-SUFFIX,supportlivecam.com
+#超实惠机场
+DOMAIN-SUFFIX,cshjc.top
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
